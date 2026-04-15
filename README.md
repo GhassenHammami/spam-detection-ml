@@ -72,12 +72,12 @@ Final evaluation on the Test Set:
 ### Confusion Matrix
 The confusion matrix below illustrates the performance of our classifiers in distinguishing between Ham and Spam emails:
 
-![Confusion Matrix]()
+<img width="1348" height="495" alt="image" src="https://github.com/user-attachments/assets/55316337-e5a1-41e0-9321-db68d07429b1" />
 
 ### Feature Importance
 This chart shows which specific keywords (like "enron", "http", or "deal") most strongly influence the model's decision-making process:
 
-![Feature Importance]()
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/2aff09aa-1164-4e72-9ff1-b5743ce5c144" />
 
 ---
 
@@ -95,4 +95,4 @@ For an interactive version of this project including all visualizations and step
 ---
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
