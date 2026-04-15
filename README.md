@@ -16,7 +16,6 @@ spam-detection-ml/
 │   └── spam_detection.ipynb       # Google Colab notebook version
 ├── src/
 │   └── classifier.py              # Main training and evaluation script
-├── output/                        # Saved figures (Confusion Matrix, etc.)
 ├── requirements.txt               # Project dependencies
 └── README.md                      # Project documentation
 ```
