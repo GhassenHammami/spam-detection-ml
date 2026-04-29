@@ -26,7 +26,7 @@ spam-detection-ml/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/spam-detection-ml.git
+   git clone https://github.com/GhassenHammami/spam-detection-ml.git
    cd spam-detection-ml
    ```
 
